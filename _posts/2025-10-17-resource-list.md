@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Resource List - the Things That Helped Me On My Journey to Becoming a Threat Hunter
-date: 2024-02-27 11:47 -0700
+date: 2025-10-17 11:47 -0700
 permalink: /:title
 ---
 
