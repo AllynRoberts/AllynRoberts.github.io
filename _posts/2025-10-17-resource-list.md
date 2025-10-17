@@ -12,7 +12,7 @@ As shared in my presentation at SAINT CON "Imposter to Hunter: My First Year as 
 - [A Cyber Threat Intelligence Self-Study Plan: Part 1 by Katie Nickels](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-1-968b5a8daf9a)
 - [A Cyber Threat Intelligence Self-Study Plan: Part 2 by Katie Nickels](https://medium.com/katies-five-cents/a-cyber-threat-intelligence-self-study-plan-part-2-d04b7a529d36)
 - [Intelligence-Driven Incident Response by REbekah Brown and Scott J. Roberts](https://www.oreilly.com/library/view/intelligence-driven-incident-response/9781098120672/)
-- [SANS CTI Summit (Jan. 26-27, 2026](https://www.sans.org/cyber-security-training-events/cyber-threat-intelligence-summit-2026) - Free Summit
+- [SANS CTI Summit (Jan. 26-27, 2026)](https://www.sans.org/cyber-security-training-events/cyber-threat-intelligence-summit-2026) - Free Summit
 
 # Threat Hunting
 - [KC7 Cyber](https://kc7cyber.com/) - Completely free resource for learning KQL, query-building, and incident investigation
@@ -35,7 +35,7 @@ As shared in my presentation at SAINT CON "Imposter to Hunter: My First Year as 
 - [Fabric - an open-source framework for augmenting humans using AI](https://github.com/danielmiessler/Fabric) - In the /data/patterns folder, there is a long list of various prompts to generate higher quality AI responses
 
 # Note-Taking (Zettelkasten)
-#### Zettelkasten is a very different way of taking notes, and takes a lot of dilligence to keep up, and quite a bit of understanding with how the system works. It's main points are you have atomic notes, a note with a single, atomic idea, and that note is linked to other similar notes in a chain, so that every note you take is linked to some other note. Some say it's built better for those that want to write books or articles. I've found it to be very useful, especially paired with the PARA system.
+#### Zettelkasten is a very different way of taking notes, and takes a lot of dilligence to keep up, and quite a bit of understanding with how the system works. Its main points are you have atomic notes( a note with a single atomic idea) and that note is linked to other similar notes in a chain, so that every note you take is linked to some other note. Some say it's built better for those that want to write books or articles. I've found it to be very useful, especially paired with the PARA method.
 - [Digital Zettelkasten by David Kadavy](https://www.amazon.com/Digital-Zettelkasten-Principles-Methods-Examples/dp/0578928094)
 - [How to Take Smart Notes by Sönke Ahrens](https://www.amazon.com/How-Take-Smart-Notes-Technique/dp/3982438802)
 - [A System for Writing by Bob Doto](https://www.amazon.com/s?k=a+system+for+writing+bob+doto&i=stripbooks&crid=1LD2TON7F7UTI&sprefix=a+system+for+writing+bob+doto%2Cstripbooks%2C106)
