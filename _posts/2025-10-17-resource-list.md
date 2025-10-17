@@ -24,6 +24,7 @@ As shared in my presentation at SAINT CON "Imposter to Hunter: My First Year as 
 - [David Bianco's Splunk Blog Posts](https://www.splunk.com/en_us/blog/author/dbianco.html) - This guy is legendary - helped create the PEAK Framework, the Pyramid of Pain
 - [THOR Collective](https://dispatch.thorcollective.com/) - Threat Hunting-related posts, great resource
 - [HEARTH - Hunting Exchange and Research Threat hub](https://hearth.thorcollective.com/) - Cureated threat hunting ideas using the PEAK Framework (you have a hunt idea and need help? This could be the place to bring it up)
+- [Threat Hunter's Cookbook](https://www.splunk.com/en_us/form/threat-hunters-cookbook.html) - based off of the PEAK Framework, goes over various hunting methodologies
 
 # Miscellaneous 
 - [Leveraging mind maps & self-assessments to develop a personal training plan by Andy Piazza](https://klrgrz.medium.com/mind-the-gap-leveraging-mind-maps-self-assessments-to-develop-a-personal-training-plan-8210137f3f92) - A guide to help you figure out what you want to be in Cyber
@@ -31,9 +32,10 @@ As shared in my presentation at SAINT CON "Imposter to Hunter: My First Year as 
 - [The Art of Cyberwarfare by Jon DiMaggio](https://nostarch.com/art-cyberwarfare)
 - [Cloud Security Lab a Week](https://slaw.securosis.com/) - Free weekly labs that walk through creating an AWS environment and securing it
 - [SANS Holiday Hack Challenge](https://www.sans.org/cyber-ranges/holiday-hack-challenge) - Free video-game styled hack challenge complete with KringleCon and some sweet cyber-styled holiday jams. Great way to finish off the year
+- [Fabric - an open-source framework for augmenting humans using AI](https://github.com/danielmiessler/Fabric) - In the /data/patterns folder, there is a long list of various prompts to generate higher quality AI responses
 
 # Note-Taking (Zettelkasten)
-## Zettelkasten is a very different way of taking notes, and takes a lot of dilligence to keep up, and quite a bit of understanding with how the system works. It's main points are you have atomic notes, a note with a single, atomic idea, and that note is linked to other similar notes in a chain, so that every note you take is linked to some other note. Some say it's built better for those that want to write books or articles. I've found it to be very useful, especially paired with the PARA system.
+#### Zettelkasten is a very different way of taking notes, and takes a lot of dilligence to keep up, and quite a bit of understanding with how the system works. It's main points are you have atomic notes, a note with a single, atomic idea, and that note is linked to other similar notes in a chain, so that every note you take is linked to some other note. Some say it's built better for those that want to write books or articles. I've found it to be very useful, especially paired with the PARA system.
 - [Digital Zettelkasten by David Kadavy](https://www.amazon.com/Digital-Zettelkasten-Principles-Methods-Examples/dp/0578928094)
 - [How to Take Smart Notes by Sönke Ahrens](https://www.amazon.com/How-Take-Smart-Notes-Technique/dp/3982438802)
 - [A System for Writing by Bob Doto](https://www.amazon.com/s?k=a+system+for+writing+bob+doto&i=stripbooks&crid=1LD2TON7F7UTI&sprefix=a+system+for+writing+bob+doto%2Cstripbooks%2C106)
