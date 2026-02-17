@@ -1,11 +1,11 @@
 ---
 layout: post
-title: Imposter to Hunter: My First Two Years as a Threat Hunter
+title: "Imposter to Hunter - My First Two Years as a Threat Hunter"
 date: 2026-02-17 09:34 -0700
 permalink: /:title
 ---
 
-# Impostor to Hunter: My Two Years as a Threat Hunter
+# Impostor to Hunter: My First Two Years as a Threat Hunter
 
 About a year ago, I walked into a meeting to present recommendations from one of our first cloud threat hunts. I'd been hunting in our cloud environment for weeks. The people in that room had been
 working in it for years. I was terrified they were going to laugh at me or tell me I didn't know what I was talking about.
