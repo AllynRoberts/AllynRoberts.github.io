@@ -134,5 +134,5 @@ The path from impostor to *insert your field* isn't a straight line. It's years 
 
 ---
 
-*This post is adapted from my talk [Impostor to Hunter: My First Year as a Threat Hunter](https://www.youtube.com/watch?v=Qxi_yOiI0cw) presented at SAINTCON 2025. If you want to connect or talk about threat hunting, cybersecurity careers, or your
+*This post is adapted from my talk [Imposter to Hunter: My First Year as a Threat Hunter](https://www.youtube.com/watch?v=Qxi_yOiI0cw) presented at SAINTCON 2025. If you want to connect or talk about threat hunting, cybersecurity careers, or your
 own journey, feel free to reach out. I'd love to hear from you.*
